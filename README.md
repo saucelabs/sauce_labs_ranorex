@@ -5,8 +5,8 @@
 1. Global Dependencies
     * Make sure you have Ranorex installed on your local machine (https://www.ranorex.com/).
 
-2. Project Dependencies
-	* Ensure your Sauce Labs Real Device account has access to the devices specified in the config.yml file.
+2. Select the Sauce Labs WebDriver endpoint:
+   ![WebDriver endpoint 1](images/ranorex_endpoint_001.png?raw=true "Endpoint 1")
 
 3. In XCode under your target's `Signing & Capabilities` select your team and make sure `Automatically manage signing` is        checked.
 
