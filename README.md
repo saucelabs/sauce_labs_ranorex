@@ -9,30 +9,22 @@
 
    ![WebDriver endpoint 1](images/ranorex_endpoint_001.png?raw=true "Endpoint 1")
 
-3. In XCode under your target's `Signing & Capabilities` select your team and make sure `Automatically manage signing` is        checked.
+3. Right Click and select `View Details`:
 
-4. Select `Generic iOS Device` in the top left dropdown and choose `Product->Build For->Testing`.
+   ![WebDriver endpoint 2](images/ranorex_endpoint_002.png?raw=true "Endpoint 2")
+   
+4. Select `Edit` next to `Sauce Labs Config`:
 
-5. After that the `Product` group in the navigator should show a few files:
-   * LoanCalc.app
-   * LoanCalcTests.xctest
-   * LoanCalcUITests.xctest
-   Right click on LoanCalc.app and choose `Show in Finder` to get the location of the build.
-   Copy `LoanCalc.app` and `LoanCalc-Runner.app` from that folder to your main directory containing your runner.
+   ![WebDriver endpoint 3](images/ranorex_endpoint_003.png?raw=true "Endpoint 3")
 
-6. Create a new folder called `Payload`, copy `LoanCalc.app` into it, compress it, and rename the zip `LoanCalc.ipa`. This is    the ipa you'll upload to Sauce Labs. Instructions at https://wiki.saucelabs.com/display/DOCS/Creating+a+Real+Device+Project
+4. Change `username` and `accessKey` to your Sauce Labs useranem and accessKey:
 
-7.  Real Device Application Credential
-    * Replace the apiKey in runner.sh with your apiKey. This is found under your App Dashboard -> Automated Testing -> Appium 	  -> Setup Instructions
+   ![WebDriver endpoint 4](images/ranorex_endpoint_004.png?raw=true "Endpoint 4")
 
-### Running Tests
-```
-$ ./runner.sh
-```
-
-You can view the results of tests and tests in progress under your app dashboard -> Automated Testing -> XCUITest
 
 ### Resources
+
+##### [Ranorex Studio Useer Guide](https://www.ranorex.com/help/latest/)
 
 ##### [Sauce Labs Documentation](https://wiki.saucelabs.com/)
 
