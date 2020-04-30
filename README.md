@@ -1,4 +1,4 @@
-# RDC-Ranorex
+# Sauce Labs Ranorex
 
 ### Environment Setup
 
