@@ -1,4 +1,4 @@
-# Sauce Labs Ranorex
+# Sauce Labs Ranorex Studio
 
 ### Environment Setup
 
