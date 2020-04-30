@@ -1,0 +1,23 @@
+﻿<Properties>
+  <Array name="active">
+    <Element value="SauceLabsTest0005.rxtst" />
+  </Array>
+  <Array name="bookmarks">
+    <Element value="Breakpoint|C:\Users\erika\Documents\Ranorex\RanorexStudio Projects\SauceLabsTest0005\SauceLabsTest0005\Recording1.UserCode.cs|53|4|True|Break||" />
+  </Array>
+  <Array name="files">
+    <Element value="SauceLabsTest0005.rxtst" />
+    <Element value="Recording1.rxrec" />
+    <Element value="Recording1.cs" />
+    <Element value="Recording1.UserCode.cs" />
+    <Element value="CloseBrowser.UserCode.cs" />
+    <Element value="app.config" />
+    <Element value="AssemblyInfo.cs" />
+    <Element value="OpenBrowser.cs" />
+  </Array>
+  <Properties name="projectSavedData">
+    <Array name="recentusercodeselections">
+      <Element value="SauceLabsTest0005.Recording1.TestValidate()" />
+    </Array>
+  </Properties>
+</Properties>

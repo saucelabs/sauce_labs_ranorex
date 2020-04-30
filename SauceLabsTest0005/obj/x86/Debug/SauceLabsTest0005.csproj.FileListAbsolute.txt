@@ -1,0 +1,10 @@
+C:\Users\erika\Documents\Ranorex\RanorexStudio Projects\SauceLabsTest0005\SauceLabsTest0005\bin\Debug\SauceLabsTest0005.rxtmg
+C:\Users\erika\Documents\Ranorex\RanorexStudio Projects\SauceLabsTest0005\SauceLabsTest0005\bin\Debug\SauceLabsTest0005.rxtst
+C:\Users\erika\Documents\Ranorex\RanorexStudio Projects\SauceLabsTest0005\SauceLabsTest0005\bin\Debug\SauceLabsTest0005.exe.config
+C:\Users\erika\Documents\Ranorex\RanorexStudio Projects\SauceLabsTest0005\SauceLabsTest0005\bin\Debug\SauceLabsTest0005.xml
+C:\Users\erika\Documents\Ranorex\RanorexStudio Projects\SauceLabsTest0005\SauceLabsTest0005\bin\Debug\SauceLabsTest0005.exe
+C:\Users\erika\Documents\Ranorex\RanorexStudio Projects\SauceLabsTest0005\SauceLabsTest0005\bin\Debug\SauceLabsTest0005.pdb
+C:\Users\erika\Documents\Ranorex\RanorexStudio Projects\SauceLabsTest0005\SauceLabsTest0005\bin\Debug\Ranorex.Core.Resolver.dll
+C:\Users\erika\Documents\Ranorex\RanorexStudio Projects\SauceLabsTest0005\SauceLabsTest0005\obj\x86\Debug\SauceLabsTest0005.csprojResolveAssemblyReference.cache
+C:\Users\erika\Documents\Ranorex\RanorexStudio Projects\SauceLabsTest0005\SauceLabsTest0005\obj\x86\Debug\SauceLabsTest0005.exe
+C:\Users\erika\Documents\Ranorex\RanorexStudio Projects\SauceLabsTest0005\SauceLabsTest0005\obj\x86\Debug\SauceLabsTest0005.pdb

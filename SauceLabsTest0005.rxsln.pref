@@ -1,0 +1,16 @@
+﻿<Properties>
+  <Array name="active" />
+  <ActiveConfiguration value="Debug" />
+  <ActivePlatform value="x86" />
+  <Array name="bookmarks" />
+  <Array name="files" />
+  <SerializedValue name="ModuleBrowserState">
+    <ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <string>{AE8074A6-86CF-47A9-AFF5-51C16D054FFF}</string>
+      <string>6e12a760-6636-488c-b3e9-7d256aa61ae5</string>
+      <string>60513a05-eab7-41e7-8c10-e51c735edc2e</string>
+    </ArrayOfString>
+  </SerializedValue>
+  <ProjectBrowserState value="[Solution SauceLabsTest0005[SauceLabsTest0005[CloseBrowser.rxrec[]OpenBrowser.rxrec[]Recording1.rxrec[]SauceLabsTest0005Repository.rxrep[]]]]&#xD;&#xA;Solution SauceLabsTest0005\SauceLabsTest0005\SauceLabsTest0005.rxtst&#xD;&#xA;Solution SauceLabsTest0005" />
+  <StartupProject value="{AE8074A6-86CF-47A9-AFF5-51C16D054FFF}" />
+</Properties>

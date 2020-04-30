@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="ff745cf7-3730-4195-a382-b193a426b396"
+mode="Desktop">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="OpenBrowser"
+	namespace="SauceLabsTest0005">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+		<openwebsiterecorditem
+		args=""
+		browser="chrome"
+		clearcache="False"
+		clearcookies="False"
+		duration="9024.2283ms"
+		enabled="True"
+		incognito="False"
+		instrument="True"
+		killexisting="False"
+		maximized="True"
+		optional="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<url>
+				https://www.saucedemo.com
+			</url>
+		</openwebsiterecorditem>
+	</recorditems>
+	<repository
+	id="874741cd-f55c-4cee-9772-057f76ce7eda"
+	name="SauceLabsTest0005Repository"
+	relativepath="SauceLabsTest0005Repository.rxrep">
+		<codegen
+		classname="SauceLabsTest0005Repository"
+		namespace="SauceLabsTest0005">
+		</codegen>
+		<rootfolder
+		id="dea8e64b-7b6a-433c-85b6-42f31359db88"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		OpenBrowser.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modulegroupdoc>
+  <testsuiteentryhierarchy>
+    <flatlistofchildren>
+      <modulegroups
+      name="SauceLabsTest0005"
+      id="46ba05c3-debc-4e49-9881-4577eb8a791c"/>
+    </flatlistofchildren>
+    <childhierarchy>
+      <modulegroups
+      name="SauceLabsTest0005"
+      id="46ba05c3-debc-4e49-9881-4577eb8a791c"/>
+    </childhierarchy>
+  </testsuiteentryhierarchy>
+</modulegroupdoc>

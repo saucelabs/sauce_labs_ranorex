@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="94350153-fe95-44b1-a077-96fea47cd009"
+mode="Desktop">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="CloseBrowser"
+	namespace="SauceLabsTest0005">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+		<closeapprecorditem
+		enabled="True"
+		graceperiod="0ms"
+		method="CloseWindow"
+		optional="False"
+		searchpropertyid="e44a62c7-6f1b-40f3-a622-9bac84e43f3c">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="248cd8f6-42e5-4c43-983a-b3f6a44ab35e"
+			sourcename="RepositoryEditor">
+				<path>
+					/form[@processname='chrome']
+				</path>
+			</info>
+		</closeapprecorditem>
+	</recorditems>
+	<repository
+	id="874741cd-f55c-4cee-9772-057f76ce7eda"
+	name="SauceLabsTest0005Repository"
+	relativepath="SauceLabsTest0005Repository.rxrep">
+		<codegen
+		classname="SauceLabsTest0005Repository"
+		namespace="SauceLabsTest0005">
+		</codegen>
+		<rootfolder
+		id="dea8e64b-7b6a-433c-85b6-42f31359db88"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		CloseBrowser.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>
